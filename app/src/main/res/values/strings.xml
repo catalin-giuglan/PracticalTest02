@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PracticalTest02</string>
+
+    <string-array name="information_types">
+        <item>all</item>
+        <item>temp</item>
+        <item>speed</item>
+        <item>pressure</item>
+        <item>humidity</item>
+    </string-array>
 </resources>
